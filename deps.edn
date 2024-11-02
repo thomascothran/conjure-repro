@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {org.clojure/clojurescript {:mvn/version "1.11.54"}
+        nrepl/nrepl {:mvn/version "0.8.3"}
+        cider/piggieback {:mvn/version "0.5.3"}}}
